@@ -1,17 +1,12 @@
 # Hello there, I’m Edgiest 👋
 
-## I'm an Italian Highschool Student!
+## I'm an Italian Student!
 * 🍰 No problems when working with others: English, a **piece of cake**!
-* 👀 I’m very interested in *programming* and *automation*
+* 👀 I’m very interested in *automation* and *problem solving*
 * 🔥 I’m currently learning whatever I find interesting
-* 🧩 I’m looking forward to collaborate on open-source
-* ⚡ I love learning and playing basketball 
+* 🧩 I’m looking forward to collaborate with anybody
+* ⚡ I love learning and undergoing new challenges!
 * 👑 Eat, Sleep, Code, Repeat!
-
-# Contact me:
-[<img align="left" alt="Instagam" height="50px" style="padding-right:20px;" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/matt_ger05/)
-[<img alt="LeetCode" height="50px" src="images/leetCode.png">](https://leetcode.com/Gerosa_05/)
-
 
 <br />
 
@@ -22,14 +17,16 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Python 3" style="padding-right:20px;" width="26px" src="https://www.python.org/static/favicon.ico" />
-<img align="left" alt="Java" style="padding-right:20px;" height="26px" src="./images/java.png">
-<img align="left" alt="C#" style="padding-right:20px;" width="26px" src="./images/csharp.png">
+<img align="left" alt="Android Studio" style="padding-right:20px;" width="28px" src="./images/android-studio.png">
+<img align="left" alt="C++" style="padding-right:20px;" width="26px" src="./images/cpp.png">
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:20px;" />](#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:20px;" />](#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./images/terminal-light.svg" />](#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./images/terminal-dark.svg" />](#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./images/terminal-light.svg" style="padding-right:20px;" />](#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./images/terminal-dark.svg" style="padding-right:20px;" />](#gh-dark-mode-only)
+
+[<img alt="LeetCode" height="26px" src="images/leetCode.png">](https://leetcode.com/Gerosa_05/)
 
 <br />
 <br />
